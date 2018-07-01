@@ -13,8 +13,3 @@ after installing dependancies, run
 
     react-native run-android
     
-# Groupe   
-
-Abba Adam Ibrahim
-
-Kiki bagbang Mardochéé 
